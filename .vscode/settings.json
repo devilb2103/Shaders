@@ -1,0 +1,20 @@
+{
+  "glsl-canvas.refreshOnChange": false,
+  "webgl-glsl-editor.format.placeSpaceAfterKeywords": true,
+  "[glsl]": {
+    "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+  },
+  "[frag]": {
+    "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+  },
+  "[vert]": {
+    "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+  },
+
+  "glsl-canvas.recordWidth": 1080,
+  "glsl-canvas.recordHeight": 1080,
+  "glsl-canvas.textures": {
+    "2": "https://thebookofshaders.com/15/hokusai.jpg"
+  },
+  "glsl-canvas.antialias": true
+}
